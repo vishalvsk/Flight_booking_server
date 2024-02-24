@@ -24,16 +24,16 @@ const flightSchema = mongoose.Schema(
       type: String,
       required: true,
     },
-    discription: {
+    description: {
       type: String,
       required: true,
     },
   },
   {
-    timeStamp: true,
+    timestamps: true,
   }
 );
 
 const flightModel = mongoose.model("flight", flightSchema);
 
-module.exports = flightModel
+module.exports = flightModel;

@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 // Replace 'your_database_name' with the actual name of your database
 const uri =
-  "mongodb+srv://vishalvsk3245:vishalvsk3245@vishalvskcluster.wzyt9io.mongodb.net/mern-flights";
+  "mongodb+srv://vishalvsk3245:vishalvsk3245@vishalvskcluster.wzyt9io.mongodb.net/vishalFlight";
 
 mongoose
   .connect(uri, { useUnifiedTopology: true })
