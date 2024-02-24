@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Flight 1",
+    "maxCount": 200,
+    "phoneNumber": 1234567890,
+    "rent": 1000,
+    "imgUrls": [
+      "https://plus.unsplash.com/premium_photo-1679830513990-82a4280f41b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBsYW5lfGVufDB8fDB8fHww",
+      "https://media.istockphoto.com/id/1332501286/photo/aerial-flying-airplane-and-sky-landscape-close-up.webp?b=1&s=170667a&w=0&k=20&c=F3PSMzB2x-pI-ctwUEGTY4jvnRYIi3PgCheBiCu8Y7Q="
+    ],
+    "currentBooking": [],
+    "type": "Domestic",
+    "description": "This is a description for Flight 1."
+  },
+  {
+    "name": "Flight 2",
+    "maxCount": 150,
+    "phoneNumber": 9876543210,
+    "rent": 1200,
+    "imgUrls": [
+      "https://media.istockphoto.com/id/1164049513/photo/airplane-taking-off-from-the-airport.webp?b=1&s=170667a&w=0&k=20&c=ZL25hKR74ZmYpOgrpHjAphEEJpwcOPuV1FSU0v-Gky8=",
+      "https://media.istockphoto.com/id/1599525931/photo/airliner-in-heavy-cloudy-sky-prepared-for-landing.webp?b=1&s=170667a&w=0&k=20&c=tpxos4MEqubkriUDM-eBKaj2f1XdAuZt0Tp2PWsahfM="
+    ],
+    "currentBooking": [],
+    "type": "International",
+    "description": "This is a description for Flight 2."
+  },
+  {
+    "name": "Flight 3",
+    "maxCount": 180,
+    "phoneNumber": 4567891230,
+    "rent": 1100,
+    "imgUrls": [
+      "https://media.istockphoto.com/id/1557263320/photo/passenger-planes-flying-in-the-sky-preparing-to-land-at-the-airport-airplane-travel-and.webp?b=1&s=170667a&w=0&k=20&c=JxNy9anb4yDcYRipBSwsq7FOap4BEP94yTWOycbxlKw=",
+      "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGxhbmV8ZW58MHx8MHx8fDA%3D"
+    ],
+    "currentBooking": [],
+    "type": "Domestic",
+    "description": "This is a description for Flight 3."
+  },
+  {
+    "name": "Flight 4",
+    "maxCount": 220,
+    "phoneNumber": 7891234560,
+    "rent": 1300,
+    "imgUrls": [
+      "https://plus.unsplash.com/premium_photo-1679758630312-a3d601c411d8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGxhbmV8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1517999349371-c43520457b23?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGxhbmV8ZW58MHx8MHx8fDA%3D"
+    ],
+    "currentBooking": [],
+    "type": "International",
+    "description": "This is a description for Flight 4."
+  },
+  {
+    "name": "Flight 5",
+    "maxCount": 170,
+    "phoneNumber": 3216549870,
+    "rent": 1050,
+    "imgUrls": [
+      "https://plus.unsplash.com/premium_photo-1661964295539-8695df3ffead?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1520437358207-323b43b50729?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D"
+    ],
+    "currentBooking": [],
+    "type": "Domestic",
+    "description": "This is a description for Flight 5."
+  },
+  {
+    "name": "Flight 6",
+    "maxCount": 190,
+    "phoneNumber": 6549873210,
+    "rent": 1150,
+    "imgUrls": [
+      "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmNyYWZ0fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmNyYWZ0fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpcmNyYWZ0fGVufDB8fDB8fHww"
+    ],
+    "currentBooking": [],
+    "type": "Domestic",
+    "description": "This is a description for Flight 6."
+  },
+  {
+    "name": "Flight 7",
+    "maxCount": 210,
+    "phoneNumber": 9876540123,
+    "rent": 1250,
+    "imgUrls": [
+      "https://images.unsplash.com/photo-1571306603861-20c055ab2e5c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFpcmNyYWZ0fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1571306603861-20c055ab2e5c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFpcmNyYWZ0fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1571306603861-20c055ab2e5c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFpcmNyYWZ0fGVufDB8fDB8fHww"
+    ],
+    "currentBooking": [],
+    "type": "International",
+    "description": "This is a description for Flight 7."
+  },
+  {
+    "name": "Flight 8",
+    "maxCount": 160,
+    "phoneNumber": 4560127890,
+    "rent": 1020,
+    "imgUrls": [
+      "https://images.unsplash.com/photo-1587408811730-1a978e6c407d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1667696992548-827cf2ba3fd2?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D"
+    ],
+    "currentBooking": [],
+    "type": "Domestic",
+    "description": "This is a description for Flight 8."
+  },
+  {
+    "name": "Flight 9",
+    "maxCount": 230,
+    "phoneNumber": 7890123456,
+    "rent": 1350,
+    "imgUrls": [
+      "https://images.unsplash.com/photo-1562805612-9c340007e0b9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1678727128629-72543d1c2268?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1562805612-9c340007e0b9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YWlyY3JhZnR8ZW58MHx8MHx8fDA%3D"
+    ],
+    "currentBooking": [],
+    "type": "International",
+    "description": "This is a description for Flight 9."
+  },
+  {
+    "name": "Flight 10",
+    "maxCount": 175,
+    "phoneNumber": 3210123456,
+    "rent": 1075,
+    "imgUrls": [
+      "https://images.unsplash.com/photo-1512289984044-071903207f5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGxhbmV8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1529074963764-98f45c47344b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBsYW5lfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1529074963764-98f45c47344b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBsYW5lfGVufDB8fDB8fHww"
+    ],
+    "currentBooking": [],
+    "type": "Domestic",
+    "description": "This is a description for Flight 10."
+  }
+]
