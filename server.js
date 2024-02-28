@@ -2,11 +2,15 @@ const express = require("express");
 
 const app = express();
 
-const dbconfig = require('./db');
+const dbconfig = require("./db");
 
 const flightRoute = require("./routes/flightRoute");
+const userRoute = require("./routes/userRoute");
 
-app.use("/api/flights" , flightRoute)
+app.use(express.json());
+
+app.use("/api/flights", flightRoute);
+app.use("/api/users", userRoute);
 
 const port = process.env.PORT || 5000;
 

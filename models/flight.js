@@ -6,6 +6,22 @@ const flightSchema = mongoose.Schema(
       type: String,
       required: true,
     },
+    from: {
+      type: String,
+      required: true,
+    },
+    to: {
+      type: String,
+      required: true,
+    },
+    departure: {
+      type: String,
+      required: true,
+    },
+    arrival: {
+      type: String,
+      required: true,
+    },
     maxCount: {
       type: Number,
       required: true,

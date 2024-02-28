@@ -1,6 +1,8 @@
 [
   {
-    "name": "Flight 1",
+    "name": "Air India",
+    "from": "pune",
+    "to": "mumbai",
     "maxCount": 200,
     "phoneNumber": 1234567890,
     "rent": 1000,
@@ -13,7 +15,11 @@
     "description": "This is a description for Flight 1."
   },
   {
-    "name": "Flight 2",
+    "name": "IndiGo",
+    "from": "pune",
+    "to": "hydrabad",
+    "departure": "11:30 AM",
+    "arrival": "1:30 PM",
     "maxCount": 150,
     "phoneNumber": 9876543210,
     "rent": 1200,
@@ -26,7 +32,11 @@
     "description": "This is a description for Flight 2."
   },
   {
-    "name": "Flight 3",
+    "name": "SpiceJet",
+    "from": "delhi",
+    "to": "mumbai",
+    "departure": "1:00 PM",
+    "arrival": "3:00 PM",
     "maxCount": 180,
     "phoneNumber": 4567891230,
     "rent": 1100,
@@ -39,7 +49,11 @@
     "description": "This is a description for Flight 3."
   },
   {
-    "name": "Flight 4",
+    "name": "Vistara",
+    "from": "mumbai",
+    "to": "pune",
+    "departure": "11:00 AM",
+    "arrival": "01:00 PM",
     "maxCount": 220,
     "phoneNumber": 7891234560,
     "rent": 1300,
@@ -52,7 +66,11 @@
     "description": "This is a description for Flight 4."
   },
   {
-    "name": "Flight 5",
+    "name": "GoAir",
+    "from": "pune",
+    "to": "mumbai",
+    "departure": "01:30 PM",
+    "arrival": "03:30 PM",
     "maxCount": 170,
     "phoneNumber": 3216549870,
     "rent": 1050,
@@ -65,7 +83,11 @@
     "description": "This is a description for Flight 5."
   },
   {
-    "name": "Flight 6",
+    "name": "AirAsia",
+    "from": "pune",
+    "to": "mumbai",
+    "departure": "08:00 AM",
+    "arrival": "10:00 AM",
     "maxCount": 190,
     "phoneNumber": 6549873210,
     "rent": 1150,
@@ -79,7 +101,11 @@
     "description": "This is a description for Flight 6."
   },
   {
-    "name": "Flight 7",
+    "name": "Jet Airways",
+    "from": "surat",
+    "to": "mumbai",
+    "departure": "04:00 PM",
+    "arrival": "06:00 PM",
     "maxCount": 210,
     "phoneNumber": 9876540123,
     "rent": 1250,
@@ -93,7 +119,11 @@
     "description": "This is a description for Flight 7."
   },
   {
-    "name": "Flight 8",
+    "name": "IndiGo",
+    "from": "nagpur",
+    "to": "mumbai",
+    "departure": "06:30 PM",
+    "arrival": "08:30 PM",
     "maxCount": 160,
     "phoneNumber": 4560127890,
     "rent": 1020,
@@ -107,7 +137,11 @@
     "description": "This is a description for Flight 8."
   },
   {
-    "name": "Flight 9",
+    "name": "Air India",
+    "from": "banglore",
+    "to": "mumbai",
+    "departure": "01:30 PM",
+    "arrival": "03:30 PM",
     "maxCount": 230,
     "phoneNumber": 7890123456,
     "rent": 1350,
@@ -121,7 +155,11 @@
     "description": "This is a description for Flight 9."
   },
   {
-    "name": "Flight 10",
+    "name": "Jet Airways",
+    "from": "chennai",
+    "to": "mumbai",
+    "departure": "11:00 AM",
+    "arrival": "01:00 PM",
     "maxCount": 175,
     "phoneNumber": 3210123456,
     "rent": 1075,
