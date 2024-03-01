@@ -3,6 +3,8 @@
     "name": "Air India",
     "from": "pune",
     "to": "mumbai",
+    "departure": "11:30 AM",
+    "arrival": "1:30 PM",
     "maxCount": 200,
     "phoneNumber": 1234567890,
     "rent": 1000,

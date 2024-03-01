@@ -6,11 +6,13 @@ const dbconfig = require("./db");
 
 const flightRoute = require("./routes/flightRoute");
 const userRoute = require("./routes/userRoute");
+const bookingRoute = require("./routes/bookingRoute");
 
 app.use(express.json());
 
 app.use("/api/flights", flightRoute);
 app.use("/api/users", userRoute);
+app.use("/api/book", userRoute);
 
 const port = process.env.PORT || 5000;
 
