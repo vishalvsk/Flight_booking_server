@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use("/api/flights", flightRoute);
 app.use("/api/users", userRoute);
-app.use("/api/book", userRoute);
+app.use("/api/bookings", bookingRoute);
 
 const port = process.env.PORT || 5000;
 

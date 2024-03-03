@@ -11,7 +11,8 @@ const bookingSchema = mongoose.Schema(
       required: true,
     },
     userid: {
-      type: String,
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "users", // Reference the User model
       required: true,
     },
     from: {
@@ -22,7 +23,7 @@ const bookingSchema = mongoose.Schema(
       type: String,
       required: true,
     },
-    totleammount: {
+    totalamount: {
       type: Number,
       required: true,
     },
@@ -36,11 +37,11 @@ const bookingSchema = mongoose.Schema(
       default: "booked",
     },
   },
-
   {
-    timeStamps: true,
+    timestamps: true,
   }
 );
+
 
 const bookingmodel = mongoose.model("bookings", bookingSchema);
 
