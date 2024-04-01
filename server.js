@@ -1,6 +1,10 @@
 const express = require("express");
+const cors = require("cors"); // Import the cors package
 
 const app = express();
+
+// Use cors middleware
+app.use(cors());
 
 const dbconfig = require("./db");
 
